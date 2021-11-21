@@ -4,4 +4,4 @@ Hola/hello everyone! As you can see by the title, this is my intro. So to start 
 Anyway the into is finished lol. Goodbye everyone, and remember to always stay awesome!
 GitHub profile: https://github.com/helloitzmeiii
 Codepen Profile: https://codepen.io/Itz-Saima
-My community profile: https://community.byjusfutureschool.com/profile/fcfcdd27-3f7f-4b2f-86ba-eba58ed1fae7
+
